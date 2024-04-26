@@ -1,15 +1,19 @@
 # fastml - learning about machine learning
 
-A collection of notebooks where I implement machine learning concepts and techniques through small projects.
+A collection of notebooks for learning about machine learning.
 
 ## projects
 
-Each project in this repository is supposed to cover a specific area of machine learning:
-
-1. **MNIST in Numpy** - for understanding backprop, based on Karpathy's [micrograd](https://github.com/karpathy/micrograd/tree/master) 
-2. **Text Generation with RNNs**  
-3. **Random Forests for Classification** 
-4. **...** 
+1. **MNIST in Numpy** - Based on [micrograd](https://github.com/karpathy/micrograd/tree/master) 
+2. **Random Forests for Classification** 
+3. **Transformers** - BASIC English translation
+    a. Implementing [Transformers from Scratch]() 
+9. **Embedding**
+4. **Deep Learning and Functional Programming** 
+5. **Random Numerical Linear Algebra**
+6. **Growing Representations** - Two ways of learning a language
+7. **History of NLP**
+8. **Learning while Writing** - [Leave No Context Behind](https://arxiv.org/pdf/2404.07143.pdf)
 
 ## contribution
 
